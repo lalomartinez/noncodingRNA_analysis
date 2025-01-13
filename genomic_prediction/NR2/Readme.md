@@ -1,7 +1,7 @@
 ### NR2 Database Files
 Before running the search scripts, download the required FASTA files from one of the following sources:
 - [NR2 Database Website](https://nr2.ncrnadatabases.org/)
-- [Google Drive Link](https://drive.google.com/file/d/1jK6SnMpPLwzAxVOMBfW2Z7wR8-6EBd8b/view?usp=drive_link)
+- [Google Drive Link](https://drive.google.com/drive/folders/1KyDvoXQEa0NJ1efOGERtv3uc33Qih29U?usp=sharing)
 
 Ensure the files are properly downloaded and accessible for the scripts to function correctly.
 
